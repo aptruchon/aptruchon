@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour/Hi 👋🙂
 
 - 🔭 I’m currently looking for a job so don't hesitate to ask me about that if you know of any opportunities
 - 🌱 I’m currently learning the MERN stack and python through a udemy course
